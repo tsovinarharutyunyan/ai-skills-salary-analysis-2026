@@ -5,7 +5,7 @@
 ## Business question
 Are AI-related skills associated with higher advertised salaries in a 2026 snapshot of tech job postings? How robust is the relationship to basic job characteristics and different AI-skill definitions?
 
-## Verified results from the executed base notebook
+## Key Findings
 | Metric | Result |
 |---|---:|
 | Original rows, configuration S | 35,417 |
